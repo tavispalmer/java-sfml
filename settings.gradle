@@ -11,4 +11,6 @@ plugins {
 }
 
 rootProject.name = 'java-sfml'
-include('lib')
+include('sfml-system')
+include('sfml-system-natives')
+include('temp')
